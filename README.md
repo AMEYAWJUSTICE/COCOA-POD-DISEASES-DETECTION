@@ -1,4 +1,4 @@
-# Cacao Disease Detection using Deep Learning
+# Cacoa Disease Detection using Deep Learning
 
 ## Project Overview
 This project aims to detect and classify diseases in cacao leaves using deep learning techniques. It explores both a custom Convolutional Neural Network (CNN) and a Transfer Learning approach using a pre-trained MobileNetV2 model. A Streamlit web application is also provided for interactive inference.
